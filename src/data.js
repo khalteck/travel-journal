@@ -1,7 +1,7 @@
 const data = [
     {
         id: 1,
-        title: "Sydney Opera House",
+        title: "Sydney Opera",
         location: "AUSTRALIA",
         googleMapsUrl: "https://www.google.com/maps/d/u/0/embed?mid=1NYBTZlF3StQEf65_sVbpMlskCoo&ie=UTF8&hl=en&msa=0&ll=-33.86214799999998%2C151.21521899999996&spn=0.035636%2C0.042915&z=14&output=embed",
         startDate: "27 May, 2021",
